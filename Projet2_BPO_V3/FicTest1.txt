@@ -1,0 +1,67 @@
+35 10
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+\newframe
+a                                  
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+\newframe
+a   b                              
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+                                   
+\newframe
+a   b                              
+                                   
+                                   
+                                   
+c                                  
+                                   
+                                   
+                                   
+                                   
+                                   
+\newframe
+a   b                              
+                                   
+                                   
+   000                             
+c  0d0                             
+   000                             
+                                   
+                                   
+                                   
+                                   
+\newframe
+a   b                              
+                                   
+  o                                
+   000                             
+c  0d0                             
+   000                             
+                                   
+                                   
+                                   
+                                   
+

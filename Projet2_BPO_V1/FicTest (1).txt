@@ -1,0 +1,37 @@
+5 5
+     
+     
+     
+     
+     
+\newframe
+a    
+     
+     
+     
+     
+\newframe
+a    
+     
+     
+     
+b    
+\newframe
+a   c
+     
+     
+     
+b    
+\newframe
+a   c
+     
+     
+     
+b   d
+\newframe
+a   c
+     
+  o  
+     
+b   d
+

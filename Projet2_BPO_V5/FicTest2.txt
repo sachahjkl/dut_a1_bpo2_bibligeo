@@ -1,0 +1,89 @@
+10 10
+          
+          
+          
+          
+     l    
+      l   
+       l  
+        l 
+          
+          
+\newframe
+          
+          
+          
+          
+     l    
+     l    
+     l    
+     l    
+          
+          
+\newframe
+          
+          
+          
+          
+     l    
+    l     
+   l      
+  l       
+          
+          
+\newframe
+          
+          
+          
+          
+  llll    
+          
+          
+          
+          
+          
+\newframe
+          
+  l       
+   l      
+    l     
+     l    
+          
+          
+          
+          
+          
+\newframe
+          
+     l    
+     l    
+     l    
+     l    
+          
+          
+          
+          
+          
+\newframe
+          
+        l 
+       l  
+      l   
+     l    
+          
+          
+          
+          
+          
+\newframe
+          
+          
+          
+          
+     llll 
+          
+          
+          
+          
+          
+
